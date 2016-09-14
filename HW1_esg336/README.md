@@ -15,7 +15,7 @@ Then I worked with Fernando Melchor  (gittest_lmf445). He fork my repository and
 
 ## Setting up an environment
 
-I set up my environment that works and send me to the PUI2016 folder.
+I set up my environment that works and send me to the PUI2016 folder. I did not set up a alias for the ssh .. because I am a user of Windows and I have to use Bitvise.
 
 Here is how I did It:
 
