@@ -19,6 +19,6 @@ I set up my environment that works and send me to the PUI2016 folder.
 
 Here is how I did It:
 
-![alt text](https://github.com/esanzglez/PUI2016_esg336/blob/master/alias.png "Alias")
+![alias](https://github.com/esanzglez/PUI2016_esg336/blob/master/alias.png "alias")
 
-![alt text](https://github.com/esanzglez/PUI2016_esg336/blob/master/second%20screen%20shot.png "Second Shoot")
+![second](https://github.com/esanzglez/PUI2016_esg336/blob/master/second.png "second")
