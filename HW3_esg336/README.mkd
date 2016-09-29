@@ -1,0 +1,23 @@
+# PUI 2016 HW 3.
+
+
+## Working groups
+
+For the second assigment I worked with Bailey Griswold and Shay Leham. Bailey set up the 2 hypothesis. 
+
+Also, I helped Adrian K. Dahlin to set his stacked bars and plotted and set his labels.
+
+
+## Assigment 1 
+
+The purpouse of this task is to produce 5 differents distributions and then apply the theory of Central Limit Theory.
+
+
+## Assigment 2
+
+As I stated I work with Baily and Shay to analize the users of citybike. 
+
+ 
+## Assigment 3
+
+In this assigment, z-score analysis is the purpouse of this assigment. This was estate in the class,and the purppuse was to finish it and analize it. 
