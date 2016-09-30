@@ -15,7 +15,7 @@ The purpouse of this task is to produce 5 differents distributions and then appl
 
 ## Assigment 2
 
-As I stated I work with Baily and Shay to analize the users of citybike. 
+As I stated I work with Baily and Shay to analize the users of citybike. Baily set up the hipothesys and Shay and I worked to figure out time translations and how to make it the analyses work. AlthoughI have to admit tha Shay was much more efficient.Also Baily and Shay figure it out how to plot the analysis and download the zip file.
 
  
 ## Assigment 3
