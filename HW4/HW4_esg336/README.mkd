@@ -1,0 +1,38 @@
+## Working Groups
+
+This time i work alone mostly that does not mean that I don't help or ask. I just prefer sometimes figure it out things by muself to learn. Indeed, This time I asked Sokratis in the question 4 once i git stuck on it.
+
+
+## Assigment 1
+
+We have to comment in the HW3 of our peer and trust gut hub that we our changes are in there. Also I will submit in here just in case.
+
+
+## Assigment 2
+
+This Assigment which i work independantly is find a research paper and analize which type of test the researchers had performance. Following you can find the two tables of two different papers.
+
+
+| **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+ANCOVA	| 1, forced-choice facial expressions recognition task |categorical | 1, tendecy rate of recognition | continous|4, age, cognitive and educational levels and for naming skills | continuous (could also be categorical) | 	Do street children recognized angry facial expressions  |  Street children are less or the same prone to indentify anger than control group. Rate of identify anger in Street level <= RAte anger in Control Group| 0.05 | [Impact of Childhood Maltreatment on the Recognition of Facial Expressions of Emotions](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141732#sec001) | |||||||||
+
+
+
+
+| **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+Correlation	| 1, retinal nerve fiber layer (RNFL) | continous | 1, atrophied in patients with fibromyalgia  or not | continous | 0 | ------------------ | 	Do patients with fibromyalgia (study group) present a damage in retinal nerve fiber layer | Retinal degeneration test groups <= Retina denegaration control group | 0.05 | [Fibromyalgia Is Correlated with Retinal Nerve Fiber Layer Thinning](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161574) |
+  |||||||||
+
+
+
+## Assigment 3
+
+This assigment is a step further of what we did previusly in class, reviwing it and go one step further.
+
+
+## Assigment 4
+
+It is about Persons , Spearman , etc.
+
