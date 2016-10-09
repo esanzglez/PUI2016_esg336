@@ -15,6 +15,6 @@ And if alternative hypothesis says "women is more likely to...", the null hypoth
 Mathmatical expressions for each hypothesis should have been written too.
 
 ### 3. Data:
-The data has the appropriate variables to answer the question. The time of the bike ride is of interest, and the Citibike data documents the travel time. Data is also properly pre-processed to extract the needed values. In the original data file, travel times, including date and time, are stored in one cell, and the group broke it down into year, date, day, and time, so that they can pick out the bike rides that fall into the time periods of interest.
+The data has the appropriate variables to answer the question. The time of the bike ride is of interest, and the Citibike data documents the travel time. Data is also properly pre-processed to extract the needed values. In the original data file, travel times, including date and time, are stored in one cell, and the group broke it down, so that they can pick out the bike rides that fall into the time periods of interest.
 
 ### 4. Test selected:
