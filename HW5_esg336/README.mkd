@@ -42,7 +42,7 @@ $POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinio
 233| 285| |||||||||
 
 
-The idea is that the President is not trustworthy if % people who vote no is greater.
+The idea is that the President is not trustworthy if % people who vote no is greater than the people who vote no.
 
 So The Null Hypothesis is that % of people who vote no are less or equal.
 
@@ -55,7 +55,7 @@ $Experimental setup: measure cessation rates for smokers randomly assigned to us
 
 we have two groups , the one with Nicotine pacth (study group) and the placebo group.
 
-We want to prove that patches works so the measure of cessation is greater tham the plavebo group.
+We want to prove that patches works so the measure of cessation is greater tham the placebo group.
 
 So Ho is the opposite:
 
