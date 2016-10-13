@@ -1,0 +1,80 @@
+## HomeWork 5
+
+I worked alone mostly. I found easy to me to go through the HW in that way to learn and to review material from class or other sources.
+
+
+## Assigment 1
+
+In the Assigment 1, we take a distribution from a real data and do some test to see which kind if distribution fit better. To plot i was helped by 
+
+
+## Assigment 2
+
+In the Assigment 2 following the skeleton we analize the differences btween salaries and we predict the future salary.
+
+
+## Assigment 3
+
+In this Assigment we have to stated the Null Hypothesis to be prociency on this important subject.
+
+The promt od the Assigment states as follows:
+
+**1. Do diets help lose more fat than the exercise? 
+   Experimental setup: you have a test and a control sample.**
+   
+The idea of this experiment is that Diet helps to loose fat. So the Null Hypothesis should be stated in the opposite direction ( that does not help to loose fat).
+
+Formally . Null Hypothesis will be that: Percentange of people who loose fat in the study group is less or equal than the percetage of people who looses fat in the control sample (who does only exercice).
+
+Therefore, The alternative hypothesis is :Percentange of people who loose fat in the study group is greater than the percetage of people who looses fat in the control sample (who does only exercice).
+
+$Ho$ = %people study lose fat >= % people sample lose fat or
+$Ho$ = (people study lose fat /total people study) >= (people sample -fat /total people sample)
+
+$Ha$ = %people study lose fat < % people sample lose fat or
+$Ha$ = (people study lose fat /total people study) < (people sample -fat /total people sample)
+
+**2.Do American trust the president?**
+$POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?” (p. 23). Poll surveyed 518 adults and 233, or 0.45 of them answered yes$
+
+| **Vote Yes|  Vote No  |   
+|:----------:|:----------|
+233| 285| |||||||||
+
+
+The idea is that the President is not trustworthy if % people who vote no is greater.
+
+So The Null Hypothesis is that % of people who vote no are less or equal.
+
+$Ho$: %people yes >= % people no
+$Ha$ : %people yes < % people no
+
+.
+**3. Effectiveness of nicotine patches to quit smoking.**
+$Experimental setup: measure cessation rates for smokers randomly assigned to use a nicotine patch versus a placebo patch.$
+
+we have two groups , the one with Nicotine pacth (study group) and the placebo group.
+
+We want to prove that patches works so the measure of cessation is greater tham the plavebo group.
+
+So Ho is the opposite:
+
+$Ho$ : rate of cessation in study group <= rate of cessation in placebo group
+$Ha$: rate of cessation in study group > rate of cessation in placebo group
+
+
+**4.Quantify the danger of smoking for pregnant women.**
+$Experimemtal setup: measure IQ of children at ages 1, 2, 3, and 4 years of age.$
+
+Idea: if it is true that there is danger in smoking during pregnancy , we will have babies with less IQ than average.
+
+$Ho$: The average of measure of the IQ a ages 1,2,3, and 4 in babies with smoking mums is greater or equal than the average IQ in babies.
+
+$Ha$: The average measure of the IQ a ages 1,2,3, and 4 in babies with smoking mums is less than the average IQ in babies.
+
+So in math:
+
+$Ho$: Sum(IQ_smok)/Babies_sm >= Sum (IQ_babies)/Total
+
+$Ha$: Sum(IQ_smok)/Babies_sm < Sum (IQ_babies)/Total
+
