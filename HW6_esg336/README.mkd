@@ -1,0 +1,15 @@
+
+## HOMEWORK 6
+
+
+## Assigment 1
+
+The Assigment is designed to work with 2 data sets and merging them and work in order to get results. We work with manhattan/pluto data set and the energyset.
+
+# Assigment 2
+
+In the assigment we finish the analysis that we start in the HW3. I did Ztest and the results are in the notebook and the write assigment in my Authorea account:
+
+
+[Investigating Citibike users behaviour](https://www.authorea.com/users/106580/articles/134727/_show_article)
+
