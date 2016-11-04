@@ -1,3 +1,0 @@
-## Assigment make a plot
-
-I would like to make a plot more advance, I tried to make one on bokeh. I wanted to try it but i felt that someplots are not very useful in bokeh. So i use seaborn at the end.
