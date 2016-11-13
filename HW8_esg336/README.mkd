@@ -1,0 +1,4 @@
+## Assigment 1
+
+In this Assigment is meant to be to analyze and work woth TimeSeries.
+ 
