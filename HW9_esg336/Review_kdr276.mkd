@@ -1,0 +1,13 @@
+##Review of the plot made by Reid Kelsey (kdr276)
+
+The plot I have to revie belong to Reid Kelsey (kdr276) and it is the following:
+
+![image](HW7_kdr276.png)
+
+This plot is too simple to be unclear or to have distractions. It convey properly the information that the author wants although i would make some changes:
+
+  1. The tittle is too long and goes over the y-axis . I would reduce the title (in words not size) and i would add a caption with this title and a longer explanation.
+  
+  2. I would include the units 
+  3. The plot does no look square shape but it should be. This effect creates a distortion in the x -axis.
+
