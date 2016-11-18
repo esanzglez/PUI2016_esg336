@@ -3,7 +3,7 @@
 #### By: Tyler Woebkenberg - tw1574
 
 <img src="https://github.com/tw1574/PUI2016_tw1574/blob/master/HW7_tw1574/Plot_files/HW8plot_esg336.jpg"
-alt=" Plot for HW7: esg336" width="850">
+alt=" Plot for HW7: esg336" width="500">
 
 #### Plot representing the Number of Felonies per day in 2015.
 
