@@ -27,4 +27,4 @@ The color selection for the graph seems appropriate, and provides a nice contras
 The plot is mostly honest and gives a good representation of the numbers represented.  Only suggestion was mentioned above where it appears some of the days of the week are missing.
 
 ### General Comments
-Good visualization, straight-forward visualization.  One potential thought might be to look at an average versus a sum of the numbers.
+Good, straight-forward visualization.  One potential thought might be to look at an average versus a sum of the numbers.
