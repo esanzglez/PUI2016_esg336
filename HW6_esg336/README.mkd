@@ -13,3 +13,5 @@ In the assigment we finish the analysis that we start in the HW3. I did Ztest an
 
 [Investigating Citibike users behaviour](https://www.authorea.com/users/106580/articles/134727/_show_article)
 
+# FBB 
+Unfortunately you have made a mistake in the analysis, a bug in 2 lines of code, and you got to the wrong conclusions. Note that if you have shown your data it would have been easy to spot your result was wrong. 
