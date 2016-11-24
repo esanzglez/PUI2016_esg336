@@ -1,3 +1,17 @@
 ## Assigment 1
 
-Doing the same notebook as in class but performing for summer and winter
+
+This assigment is just to submit what we have done in class with Dr. Sina Kashuk.
+
+
+## Assigment 2
+
+Like the previous assigment but instead of doing it with the whole data set , we have to separate into Summer and Winter with the objective to see of the Spatial Autocorrelation changes.
+
+I consider Summer to be July, August and September and Winter to be January, Febrary and March that this the most accurate months due to official season changes occurs on June 21st and December 20th.
+
+After performing the analisys that I include in the notebook, It can be seen that the seasonal distribution does not affect to the pattern of ridership by Censortrack. The hot areas are in Manhattan under Central Park, and the cold areas are Brooklyn, Harlem , Upper East Side.
+
+The only difference is that in summer Upper Side appears as cold unlike in winter.Considering that cold areas are where Citibike is not installed make sense the autocorralation and the disapperance that should be due new stations in that area were installed.
+
+
